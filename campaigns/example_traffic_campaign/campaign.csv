@@ -1,0 +1,2 @@
+name,objective,status,special_ad_categories,daily_budget_cents,lifetime_budget_cents,bid_strategy,buying_type
+Example Traffic Campaign,OUTCOME_TRAFFIC,PAUSED,,5000,,LOWEST_COST_WITHOUT_CAP,AUCTION

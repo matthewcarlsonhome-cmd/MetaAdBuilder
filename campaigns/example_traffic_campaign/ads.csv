@@ -1,0 +1,4 @@
+name,adset_name,status,creative_image_filename,creative_video_filename,headline,primary_text,description,call_to_action,destination_url,display_url
+US Ad - Image 1,US 25-45 Interest Group,PAUSED,product_hero.jpg,,Discover Our Products,Find exactly what you're looking for. Shop our collection today!,Free shipping on orders $50+,SHOP_NOW,https://example.com/shop,example.com
+US Ad - Image 2,US 25-45 Interest Group,PAUSED,lifestyle_shot.jpg,,New Arrivals Are Here,Fresh styles just landed. Be the first to shop the new collection.,Limited time only,LEARN_MORE,https://example.com/new,example.com
+CA Ad - Image 1,CA 18-35 Broad,PAUSED,product_hero.jpg,,Discover Our Products,Find exactly what you're looking for. Shop our collection today!,Free shipping on orders $50+,SHOP_NOW,https://example.com/shop-ca,example.com

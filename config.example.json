@@ -1,0 +1,7 @@
+{
+  "access_token": "YOUR_ACCESS_TOKEN_HERE",
+  "ad_account_id": "act_XXXXXXXXXX",
+  "app_id": "YOUR_APP_ID",
+  "app_secret": "YOUR_APP_SECRET",
+  "api_version": "v21.0"
+}
