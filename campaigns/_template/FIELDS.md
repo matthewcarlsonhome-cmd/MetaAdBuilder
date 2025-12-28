@@ -37,6 +37,7 @@
 | targeting_interests | No | Interest targeting | Comma-separated interest IDs |
 | targeting_custom_audiences | No | Custom audience IDs | Comma-separated audience IDs |
 | targeting_excluded_custom_audiences | No | Excluded audience IDs | Comma-separated audience IDs |
+| advantage_audience | No | Enable Advantage+ Audience (AI targeting expansion) | true, false (default: false) |
 | placements_facebook_feeds | No | Facebook Feed placement | true, false |
 | placements_instagram_feed | No | Instagram Feed placement | true, false |
 | placements_instagram_stories | No | Instagram Stories placement | true, false |

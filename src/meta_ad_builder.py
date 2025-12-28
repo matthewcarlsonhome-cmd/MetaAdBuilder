@@ -129,6 +129,10 @@ class MetaAdBuilder:
             Targeting.Field.geo_locations: {
                 "countries": self._parse_list(row["targeting_geo_locations_countries"])
             },
+            # Advantage+ Audience (required by Meta API)
+            "targeting_automation": {
+                "advantage_audience": 1 if self._parse_bool(row.get("advantage_audience", False)) else 0
+            },
         }
 
         # Gender targeting
